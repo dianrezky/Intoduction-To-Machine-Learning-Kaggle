@@ -9,3 +9,7 @@ Penjelasan :
 2. folder file google collabs merupakan source code yang sudah di reproduce dari kaggle
 
 
+Notes :
+
+1. Week 1 : Reproduce source code from kaggle to collabs 
+2. Week 2 : Reproduce source code from kaggle and sckit-learn.org

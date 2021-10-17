@@ -14,3 +14,5 @@ Notes :
 1. Week 1 : Reproduce source code from kaggle to collabs 
 2. Week 2 : Reproduce source code from kaggle and sckit-learn.org
 3. Week 3 : Reproduce source code from kaggle (K-Nearest Neighbor Classifier to predict fruits)
+4. Week 4 : Data visualization with seaborn, bokeh
+ 

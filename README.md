@@ -15,5 +15,5 @@ Notes :
 2. Week 2 : Reproduce source code from kaggle and sckit-learn.org
 3. Week 3 : Reproduce source code from kaggle (K-Nearest Neighbor Classifier to predict fruits)
 4. Week 4 : Data visualization with seaborn, bokeh
-5. Week 4 : PCA, LDA, SVD
-
+5. Week 5 : PCA, LDA, SVD
+6. Week 6 : Reproduce source code from sckit-learn.org (Data Clustering)

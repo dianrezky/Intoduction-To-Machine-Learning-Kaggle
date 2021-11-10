@@ -1,5 +1,4 @@
-# Intoduction To Machine Learning Kaggle
-
+# Intoduction To Machine Learning
 
 Tugas Mata Kuliah Pembelajaran Mesin TK-42-G6
 

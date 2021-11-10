@@ -17,3 +17,4 @@ Notes :
 4. Week 4 : Data visualization with seaborn, bokeh
 5. Week 5 : PCA, LDA, SVD
 6. Week 6 : Reproduce source code from sckit-learn.org (Data Clustering)
+7. Week 7 : Learn and reporoduce code about Xgboost

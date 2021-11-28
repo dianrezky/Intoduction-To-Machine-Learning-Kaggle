@@ -8,7 +8,9 @@ Penjelasan :
 2. folder file google collabs merupakan source code yang sudah di reproduce dari kaggle
 
 
-Notes :
+--Notes--
+
+UTS :
 
 1. Week 1 : Reproduce source code from kaggle to collabs 
 2. Week 2 : Reproduce source code from kaggle and sckit-learn.org
@@ -17,3 +19,8 @@ Notes :
 5. Week 5 : PCA, LDA, SVD
 6. Week 6 : Reproduce source code from sckit-learn.org (Data Clustering)
 7. Week 7 : Learn and reporoduce code about Xgboost
+
+UAS :
+
+1. Week 8 : Reproduce source code of SVM Algorithm from sklearn or kaggle
+2. Week 9 : Reproduce source code of Deep Learning from www.d2l.ai 

@@ -22,7 +22,8 @@ UTS :
 
 UAS :
 
-1. Week 8 : Reproduce source code of SVM Algorithm from sklearn or kaggle
-2. Week 9 : Reproduce source code of Deep Learning from www.d2l.ai chapter 3 and chapter 4
-3. Week 10 : Try Using Tensorboard and Pytorch
-4. Week 11 : Try Using CNN
+1. Week 8   : Reproduce source code of SVM Algorithm from sklearn or kaggle
+2. Week 9   : Reproduce source code of Deep Learning from www.d2l.ai chapter 3 and chapter 4
+3. Week 10  : Try Using Tensorboard and Pytorch
+4. Week 11  : Try Using CNN
+5. Week 12  : Try Using AlexNet, VGG, NiN, GoogleNet, BatchNormalization, Resnet, DenseNet   
